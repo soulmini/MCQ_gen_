@@ -1,0 +1,10 @@
+openai
+langchain
+streamlit
+python-dotenv
+Python-dotenv
+PyPDF2
+pandas
+
+# this for we can install locally 
+-e .
